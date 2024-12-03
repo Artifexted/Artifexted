@@ -1,14 +1,11 @@
 
 # 👋 Hi there! I'm Agustín 👨‍💻
 
-Welcome to my GitHub profile. I’m a developer passionate about building robust and efficient applications, always eager to learn new technologies and improve my skills.
+I’m a developer passionate about building robust and efficient applications, always eager to learn new technologies and improve my skills.
 
 ## 🌟 **About Me**
-- 💻 Web Developer with knowledge in **JavaScript**, **ReactJS**, **Node.js**, **Express**, **MongoDB**, **PostgreSQL** and **MySQL**.
-- 🎓 Currently enrolled and learning in **SoyHenry** bootcamp starting module 4, specializing in backend development with **Nest.js**.
-- 🔧 I have also studied web development at **Coderhouse**.
-- 💡 Interested in backend development and solving complex problems.
-- 🎯 My next steps are to continue growing as a backend developer and eventually explore frontend with **Next.js**.
+
+💻 Web Developer with knowledge in **NestJS**, **Node.js**, **Express**, **ReactJS**, **JavaScript**, **TypeScript**, **MongoDB**, **PostgreSQL** and **MySQL**.
 
 ## ⚙️ **Tech & Tools**
 
@@ -20,10 +17,11 @@ Welcome to my GitHub profile. I’m a developer passionate about building robust
 ![React](https://img.shields.io/badge/-React-095984?logo=react&logoColor=18B3E4&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-383839?logo=node.js&logoColor=7CB269&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-393839?logo=express&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/-NestJS-161617?logo=nestjs&logoColor=DE2A55&style=for-the-badge)
+![Next.JS](https://img.shields.io/badge/-Next.JS-161617?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-015B86?logo=mysql&logoColor=white&style=for-the-badge)
-
 
 
 ## 📊 **GitHub Stats**
