@@ -2,7 +2,7 @@
 # 👋 Hola! Soy Agustín 👨‍💻
 ## 🌟 **Acerca de mí**
 
-FullStack Developer con enfoque en Backend. Tengo experiencia en tecnologías como **Node.js**, **NestJS**, **TypeScript**, **React** y bases de datos **SQL**/**NoSQL**.
+💻 FullStack Developer con enfoque en Backend. Tengo experiencia en tecnologías como **Node.js**, **NestJS**, **TypeScript**, **React** y bases de datos **SQL**/**NoSQL**.
 
 ## ⚙️ **Tecnologías y herramientas**
 
@@ -28,7 +28,7 @@ FullStack Developer con enfoque en Backend. Tengo experiencia en tecnologías co
 
 ## 🎯 **Mis aspiraciones**
 
-- 🚀 Me encantaría formar parte de proyectos que me permitan crecer profesionalmente y colaborar con grandes equipos.
+🚀 Me encantaría formar parte de proyectos que me permitan crecer profesionalmente y colaborar con grandes equipos.
 
 ## 📧 **Contacto**
 
