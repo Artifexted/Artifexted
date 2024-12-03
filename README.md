@@ -1,10 +1,8 @@
 
 # 👋 Hi there! I'm Agustín 👨‍💻
-
-I’m a developer passionate about building robust and efficient applications, always eager to learn new technologies and improve my skills.
-
 ## 🌟 **About Me**
 
+I’m a developer passionate about building robust and efficient applications, always eager to learn new technologies and improve my skills.
 💻 Web Developer with knowledge in **NestJS**, **Node.js**, **Express**, **ReactJS**, **JavaScript**, **TypeScript**, **MongoDB**, **PostgreSQL** and **MySQL**.
 
 ## ⚙️ **Tech & Tools**
