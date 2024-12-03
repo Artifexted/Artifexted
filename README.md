@@ -1,11 +1,10 @@
 
-# 👋 Hi there! I'm Agustín 👨‍💻
-## 🌟 **About Me**
+# 👋 Hola! Soy Agustín 👨‍💻
+## 🌟 **Acerca de mí**
 
-I’m a developer passionate about building robust and efficient applications, always eager to learn new technologies and improve my skills.
-💻 Web Developer with knowledge in **NestJS**, **Node.js**, **Express**, **ReactJS**, **JavaScript**, **TypeScript**, **MongoDB**, **PostgreSQL** and **MySQL**.
+FullStack Developer con enfoque en Backend. Tengo experiencia en tecnologías como **Node.js**, **NestJS**, **TypeScript**, **React** y bases de datos **SQL**/**NoSQL**.
 
-## ⚙️ **Tech & Tools**
+## ⚙️ **Tecnologías y herramientas**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E84C15?logo=html5&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/-SASS-CD6799?logo=sass&logoColor=white&style=for-the-badge)
@@ -22,18 +21,16 @@ I’m a developer passionate about building robust and efficient applications, a
 ![MySQL](https://img.shields.io/badge/-MySQL-015B86?logo=mysql&logoColor=white&style=for-the-badge)
 
 
-## 📊 **GitHub Stats**
+## 📊 **Estadisticas en GitHub**
 
 ![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=artifexted&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artifexted&layout=compact&theme=dark)
 
-## 🎯 **Professional Aspirations**
+## 🎯 **Mis aspiraciones**
 
-- 🔍 My goal is to work as a **backend developer**.
-- 🌱 I’m passionate about learning new technologies and always open to new challenges.
-- 🚀 I would love to be part of projects that allow me to grow professionally and collaborate with great teams.
+- 🚀 Me encantaría formar parte de proyectos que me permitan crecer profesionalmente y colaborar con grandes equipos.
 
-## 📧 **Contact Me**
+## 📧 **Contacto**
 
 - LinkedIn: [Agustin Lucero](https://www.linkedin.com/in/artifexted/)
 - Email: [artifexted@gmail.com](mailto:artifexted@gmail.com)
