@@ -2,7 +2,7 @@
 # 👋 Hola! Soy Agustín 👨‍💻
 ## 🌟 **Acerca de mí**
 
-💻 FullStack Developer con enfoque en Backend. Tengo experiencia en tecnologías como **Node.js**, **NestJS**, **TypeScript**, **React** y bases de datos **SQL**/**NoSQL**.
+💻 FullStack Developer con experiencia en tecnologías como **Node.js**, **NestJS**, **Next.js**, **TypeScript**, **React** y bases de datos **SQL**/**NoSQL**.
 
 ## ⚙️ **Tecnologías y herramientas**
 
@@ -15,7 +15,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-383839?logo=node.js&logoColor=7CB269&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-393839?logo=express&logoColor=white&style=for-the-badge)
 ![NestJS](https://img.shields.io/badge/-NestJS-161617?logo=nestjs&logoColor=DE2A55&style=for-the-badge)
-![Next.JS](https://img.shields.io/badge/-Next.JS-161617?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.JS-161617?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-31648C?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-015B86?logo=mysql&logoColor=white&style=for-the-badge)
